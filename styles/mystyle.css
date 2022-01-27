@@ -13,7 +13,7 @@ body {
     padding: 16px;
     transition: all 0.3s ease;
     color: white;
-    font-size: 20px;
+    font-size: 28px;
   }
   .icon-bar .linkedin{
     margin-right: 10px;
@@ -87,7 +87,7 @@ body {
   }
 
   body {
-    background-image: url("starbg.jpg");
+    background-image: url("/Users/priyanshishah/Desktop/SCU classes/Q2/COEN 315 Web Architecture & Protocols/Assignment 1/web-architecture-assignment-1/images/starbg.jpg");
     background-color: white;
     font-family: 'Raleway', sans-serif;
   }
@@ -159,7 +159,7 @@ body {
     max-width: 250px;
     width: 100%;
   }
-  .resumefooter {
+  .projectsfooter {
     text-decoration: none;
     color:black;
     font-size: 18px;
