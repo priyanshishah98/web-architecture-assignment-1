@@ -87,7 +87,7 @@ body {
   }
 
   body {
-    background-image: url("/Users/priyanshishah/Desktop/SCU classes/Q2/COEN 315 Web Architecture & Protocols/Assignment 1/web-architecture-assignment-1/images/starbg.jpg");
+    background-image: url("../images/starbg.jpg");
     background-color: white;
     font-family: 'Raleway', sans-serif;
   }
